@@ -1,0 +1,12 @@
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\bin\Debug\Golf 2D.exe.config
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\bin\Debug\Golf 2D.exe
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\bin\Debug\Golf 2D.pdb
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\obj\Debug\Golf 2D.csproj.AssemblyReference.cache
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\obj\Debug\Golf 2D.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\obj\Debug\Golf_2D.Form1.resources
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\obj\Debug\Golf_2D.Properties.Resources.resources
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\obj\Debug\Golf 2D.csproj.GenerateResource.cache
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\obj\Debug\Golf 2D.csproj.CoreCompileInputs.cache
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\obj\Debug\Golf 2D.exe
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\obj\Debug\Golf 2D.pdb
+D:\Escritorio\UPC\U2023-1\IA ADITH\TERCER CORTE\PUNTO 2\Golf 2D\obj\Debug\Golf_2D.Nivel_1.resources
